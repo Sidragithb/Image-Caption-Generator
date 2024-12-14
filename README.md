@@ -1,6 +1,6 @@
 # Image-Caption-Generator
 
-# **Image Captioning Project**
+
 
 ## **Definition**
 Image captioning is the task of generating textual descriptions for images. It combines **Computer Vision** (to understand the image) and **Natural Language Processing** (to generate meaningful text).
